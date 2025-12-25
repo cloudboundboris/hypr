@@ -1,5 +1,7 @@
 ## My Hyprland dots using Tokyo Nightesqe theme colors for Hypr and Foot terminal using https://wixdaq.github.io/Tokyo-Night-Website/ and [tonybanters](https://github.com/tonybanters) ricing. 
 
+(myhypr_screenshot.png)
+
 #### PreReqs:
 - hyprland
 - vim
