@@ -6,6 +6,9 @@
 
 #### PreReqs:
 - hyprland
+- hyprpaper
+- hypridle
+- hyprlock
 - vim
 - git
 - foot
