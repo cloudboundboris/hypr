@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/cloudboundboris/hypr/blob/master/myhypr_screenshot.png?raw=true "Screenshot")
 
+
+
 #### PreReqs:
 - hyprland
 - vim
@@ -13,3 +15,9 @@
 - kitty (hyprland default terminal)
 - dolphin
 - jetbrains mono nerd
+
+```bash
+sudo pacman -S hyprland xorg-xwayland hyprpaper
+sudo pacman -S vim wofi git foot waybar firefox dolphin
+sudo pacman -S ttf-jetbrains-mono-nerd
+```
